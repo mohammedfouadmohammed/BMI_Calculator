@@ -1,16 +1,6 @@
 # bmi_calculator
+Screenshots
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_٢٠٢٤٠٤١٨-٢١٢٦٤٧](https://github.com/mohammedfouadmohammed/BMI_Calculator/assets/155577558/055e54e3-23e8-4610-9f48-1134269a74a1)
+![Screenshot_٢٠٢٤٠٤١٨-٢١٢٦٤١](https://github.com/mohammedfouadmohammed/BMI_Calculator/assets/155577558/7c389993-6fbf-44b4-9040-1241b5f6b00b)
+![Screenshot_٢٠٢٤٠٤١٨-٢١٢٦٣٢](https://github.com/mohammedfouadmohammed/BMI_Calculator/assets/155577558/8b7b49dd-124d-4f25-bdcb-dc5a7164e056)
